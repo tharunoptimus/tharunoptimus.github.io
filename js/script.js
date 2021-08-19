@@ -102,8 +102,8 @@ $(document).ready(function(){
 		{
 			$('.chart').easyPieChart({
 				easing: 'easeInOut',
-				barColor: '#ffffff',
-				trackColor: '#d82c2e',
+				barColor: '#d82c2e',
+				trackColor: '#00a4ef80',
 				scaleColor: false,
 				lineWidth: 4,
 				size: 152,

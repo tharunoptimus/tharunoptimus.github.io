@@ -129,8 +129,9 @@ section .centered { margin: 0 auto; float: none; }
 /*------------------------------------------------------------------
 [4. Skills]
 -------------------------------------------------------------------*/
-section.skills { background: #00A4EF; }
+section.skills { background: #3498db; }
 section.skills h4 { color: black !important; }
+
 
 .skill { margin: 0 auto 20px auto; float: none; text-align: center; }
 
@@ -280,8 +281,13 @@ footer .tumblr { background: url(../images/tumblr.png) center no-repeat #444749;
 footer .tumblr:hover { background-color: #4d7Da1; }
 footer .linkedin { background: url(../images/linkedin.png) center no-repeat #444749; }
 footer .linkedin:hover { background-color: #0073b2; }
+footer .github {     background: url(../images/github.png) center no-repeat #444749; }
+footer .github:hover { background-color: #FFFFFF; }
 
 img { max-width: 100%; height: auto; }
+
+.profile { max-width: 50%; }
+.appImages { border-radius: 25px; background-color: #FFFFFF; }
 
 .clear { clear: both; }
 
